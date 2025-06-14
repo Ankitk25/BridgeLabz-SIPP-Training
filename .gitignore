@@ -1,5 +1,5 @@
 bin/
-**/.idea/
-**/out/
+**.idea/
+**out/
 *.class
 ControlFlows/

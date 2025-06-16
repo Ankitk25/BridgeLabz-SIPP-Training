@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb47cbc3-8f0c-4777-bde2-5b4c6f43d305" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programming element/DistYard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/MaxHandshake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/areaOfTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/avgMarks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/fee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/feeFromUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/harryAge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/height.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/itemAndQuantity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/kilometerTOmiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/kmTomiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/pen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/profitLoss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/sideOfSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming element/volOfEarth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Div5.executor": "Run",
     "Application.areaOfTriangle.executor": "Run",
     "Application.avgMarks.executor": "Run",
     "Application.fee.executor": "Run",
@@ -65,16 +52,16 @@
     "last_opened_file_path": "D:/BridgeLabz-SIPP-Training"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.areaOfTriangle">
-    <configuration name="areaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="areaOfTriangle" />
+  <component name="RunManager">
+    <configuration name="Div5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Div5" />
       <module name="BridgeLabz-SIPP-Training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="feeFromUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="feeFromUser" />
+    <configuration name="areaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areaOfTriangle" />
       <module name="BridgeLabz-SIPP-Training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Div5" />
         <item itemvalue="Application.areaOfTriangle" />
         <item itemvalue="Application.sideOfsquare" />
         <item itemvalue="Application.height" />
         <item itemvalue="Application.kilometerTOmiles" />
-        <item itemvalue="Application.feeFromUser" />
       </list>
     </recent_temporary>
   </component>

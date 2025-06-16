@@ -1,8 +1,8 @@
-package Assignments.ControlFlows.Level2;
+package ControlFlows.Level2;
 
 import java.util.Scanner;
 
-public class greatfactor {
+public class GreatFactor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();

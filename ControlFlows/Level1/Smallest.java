@@ -1,6 +1,8 @@
+package ControlFlows.Level1;
+
 import java.util.*;
 
-public class smallest {
+public class Smallest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n1 = sc.nextInt(), n2 = sc.nextInt(), n3 = sc.nextInt();

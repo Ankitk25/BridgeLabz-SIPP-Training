@@ -1,5 +1,7 @@
+package ControlFlows.Level1;
+
 import java.util.*;
-public class sumuntil0orneg {
+public class SumUntilZeroOrNeg {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double total = 0;

@@ -1,8 +1,8 @@
-package Assignments.ControlFlows.Level3;
+package ControlFlows.Level3;
 
 import java.util.Scanner;
 
-public class digitcount {
+public class DigitCount {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();

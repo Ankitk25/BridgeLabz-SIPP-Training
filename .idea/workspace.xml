@@ -5,8 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb47cbc3-8f0c-4777-bde2-5b4c6f43d305" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Countdownfor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/CountdownFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Countdownwhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/CountdownWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Factorialfor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/FactorialFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Factorialwhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/FactorialWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Oddoreven.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/OddOrEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/Springseason.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/SpringSeason.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Divisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Largest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/number.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/smallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Smallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/sumfor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/SumFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/sumuntil0.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/SumUntilZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/sumuntil0orneg.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/SumUntilZeroOrNeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/sumwhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/SumWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level1/vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level1/Vote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/Bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/FizBuzzFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/FizBuzzFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/FizBuzzWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/FizBuzzWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/Pwerwhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/PowerWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/factorfor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/FactorFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/factorwhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/FactorWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/greatfactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/GreatFactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/greatfactorwhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/GreatFactorWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/Multiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/multiplewhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/MultipleWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level2/youngest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level2/Youngest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/Abundant.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/Abundant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/Bmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/dayofweak.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/DayOfWeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/digitcount.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/DigitCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/leapyear.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/leapyearandor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/LeapYearAndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlows/Level3/marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlows/Level3/Marks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,28 +72,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Div5.executor": "Run",
-    "Application.areaOfTriangle.executor": "Run",
-    "Application.avgMarks.executor": "Run",
-    "Application.fee.executor": "Run",
-    "Application.feeFromUser.executor": "Run",
-    "Application.harryAge.executor": "Run",
-    "Application.height.executor": "Run",
-    "Application.kilometerTOmiles.executor": "Run",
-    "Application.kmTomiles.executor": "Run",
-    "Application.pen.executor": "Run",
-    "Application.profitLoss.executor": "Run",
-    "Application.sideOfsquare.executor": "Run",
-    "Application.volOfEarth.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Core-Java",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/BridgeLabz-SIPP-Training"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Div5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.areaOfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.avgMarks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.feeFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.harryAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.height.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kilometerTOmiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kmTomiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.profitLoss.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sideOfsquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.volOfEarth.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Core-Java&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BridgeLabz-SIPP-Training&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.areaOfTriangle">
     <configuration name="Div5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Div5" />
       <module name="BridgeLabz-SIPP-Training" />

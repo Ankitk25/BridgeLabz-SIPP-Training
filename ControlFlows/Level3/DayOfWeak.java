@@ -1,6 +1,6 @@
 package Assignments.ControlFlows.Level3;
 
-public class dayofweak {
+public class DayOfWeak {
     public static void main(String[] args) {
          int m = Integer.parseInt(args[0]);
         int d = Integer.parseInt(args[1]);

@@ -1,14 +1,14 @@
+package ControlFlows.Level1;
+
 import java.util.Scanner;
 
-public class Factorialwhile {
+public class FactorialFor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt(), fact = 1, i = 1;
+        int n = sc.nextInt(), fact = 1;
         if (n >= 0) {
-            while (i <= n) {
+            for (int i = 1; i <= n; i++)
                 fact *= i;
-                i++;
-            }
             System.out.println("Factorial is " + fact);
         }
     }

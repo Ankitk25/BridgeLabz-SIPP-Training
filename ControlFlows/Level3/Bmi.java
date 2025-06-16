@@ -1,8 +1,8 @@
-package Assignments.ControlFlows.Level3;
+package ControlFlows.Level3;
 
 import java.util.Scanner;
 
-public class bmi {
+public class Bmi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double weight = sc.nextDouble();

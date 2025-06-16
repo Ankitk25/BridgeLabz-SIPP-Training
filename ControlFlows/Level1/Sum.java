@@ -1,5 +1,7 @@
+package ControlFlows.Level1;
+
 import java.util.*;
-public class sum {
+public class Sum {
     public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();

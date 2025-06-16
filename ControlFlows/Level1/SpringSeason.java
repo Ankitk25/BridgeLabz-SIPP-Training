@@ -1,6 +1,8 @@
+package ControlFlows.Level1;
+
 import java.util.Scanner;
 
-public class Springseason {
+public class SpringSeason {
     public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
         int month = sc.nextInt(), day = sc.nextInt();

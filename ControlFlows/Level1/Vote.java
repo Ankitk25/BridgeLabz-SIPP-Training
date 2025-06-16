@@ -1,6 +1,8 @@
+package ControlFlows.Level1;
+
 import java.util.Scanner;
 
-public class vote {
+public class Vote {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int age = sc.nextInt();

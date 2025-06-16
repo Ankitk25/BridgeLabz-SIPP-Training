@@ -1,8 +1,8 @@
-package Assignments.ControlFlows.Level2;
+package ControlFlows.Level2;
 
 import java.util.Scanner;
 
-public class youngest {
+public class Youngest {
     public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
         int[] ages = new int[3];

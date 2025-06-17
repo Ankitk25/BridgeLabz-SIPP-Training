@@ -10,8 +10,9 @@ public class Vote {
         }
         for (int i = 0; i < arr.length; i++) {
             if(arr[i]>=18){
-                System.out.printf("The student with the age %d can vote",arr[i]);
+                System.out.printf("The student with the age %d can vote\n",arr[i]);
             }
+            else System.out.printf("The student with the age %d cannot vote\n",arr[i]);
         }
     }
 }

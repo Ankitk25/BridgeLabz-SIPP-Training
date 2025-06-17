@@ -1,3 +1,5 @@
+package ProgrammingElements.Level1;
+
 public class avgMarks {
     public static void main(String[] args) {
         int math= 94;

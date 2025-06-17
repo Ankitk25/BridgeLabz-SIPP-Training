@@ -1,3 +1,5 @@
+package ProgrammingElements.Level1;
+
 public class fee {
     public static void main(String[] args) {
         double fee = 125000;

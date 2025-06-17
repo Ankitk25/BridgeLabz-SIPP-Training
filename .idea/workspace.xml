@@ -5,7 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb47cbc3-8f0c-4777-bde2-5b4c6f43d305" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaArrays/Level1/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level1/MeanHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level1/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level1/MultiplicationFrom6to9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level1/OddEvenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level1/PositiveOrNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level1/StoreValuesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/BmiCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/BmiTwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/DigitFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/LargestAndSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/LargestAndSecond2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/StudentGradesTwoD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/YoungestFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaArrays/Level2/ZaraBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaArrays/Level1/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaArrays/Level1/Vote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/BasicCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/BasicCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/DistYard.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/DistYard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/MaxHandshake.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/MaxHandshake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/areaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/areaOfTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/avgMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/avgMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/fee.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/fee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/feeFromUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/feeFromUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/harryAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/harryAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/height.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/height.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/itemAndQuantity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/itemAndQuantity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/kilometerTOmiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/kilometerTOmiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/kmTomiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/kmTomiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/pen.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/pen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/profitLoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/profitLoss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/sideOfSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/sideOfSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level1/volOfEarth.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level1/volOfEarth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level2/AreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level2/AreaOfTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level2/DistYard.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level2/DistYard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level2/DoubleOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level2/DoubleOpt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level2/IntOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level2/IntOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level2/ItemAndQuantity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level2/ItemAndQuantity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level2/QuotientAndRemainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level2/QuotientAndRemainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingElements/Level2/SideOfSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingElements/Level2/SideOfSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +62,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/BNKSNIMG/Sum[1].java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/CAWJ5SZ4/TwoDToOneD[1].java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/FHENEFGR/FizzBuzz[1].java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -30,41 +75,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Div5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.areaOfTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.avgMarks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.feeFromUser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.harryAge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.height.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kilometerTOmiles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kmTomiles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.profitLoss.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sideOfsquare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.volOfEarth.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Core-Java&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/BridgeLabz-SIPP-Training&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BmiCalculation.executor": "Run",
+    "Application.DigitFrequency.executor": "Run",
+    "Application.Div5.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.JavaArrays.Level1.Factors.executor": "Run",
+    "Application.JavaArrays.Level1.FizzBuzz.executor": "Run",
+    "Application.LargestAndSecond.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.OddEvenArray.executor": "Run",
+    "Application.PositiveOrNegative.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.StudentGrades.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.Vote.executor": "Run",
+    "Application.areaOfTriangle.executor": "Run",
+    "Application.avgMarks.executor": "Run",
+    "Application.fee.executor": "Run",
+    "Application.feeFromUser.executor": "Run",
+    "Application.harryAge.executor": "Run",
+    "Application.height.executor": "Run",
+    "Application.kilometerTOmiles.executor": "Run",
+    "Application.kmTomiles.executor": "Run",
+    "Application.pen.executor": "Run",
+    "Application.profitLoss.executor": "Run",
+    "Application.sideOfsquare.executor": "Run",
+    "Application.volOfEarth.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Core-Java",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/BridgeLabz-SIPP-Training"
   }
-}</component>
-  <component name="RunManager" selected="Application.Vote">
-    <configuration name="Div5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Div5" />
-      <module name="BridgeLabz-SIPP-Training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Vote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level1.Vote" />
+}]]></component>
+  <component name="RunManager" selected="Application.DigitFrequency">
+    <configuration name="BmiCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level2.BmiCalculation" />
       <module name="BridgeLabz-SIPP-Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaArrays.Level1.*" />
+          <option name="PATTERN" value="JavaArrays.Level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,34 +123,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="areaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="areaOfTriangle" />
+    <configuration name="DigitFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level2.DigitFrequency" />
       <module name="BridgeLabz-SIPP-Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaArrays.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="height" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="height" />
+    <configuration name="LargestAndSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level2.LargestAndSecond" />
       <module name="BridgeLabz-SIPP-Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaArrays.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sideOfsquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sideOfsquare" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level2.ReverseNumber" />
       <module name="BridgeLabz-SIPP-Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaArrays.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentGradesTwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level2.StudentGradesTwoD" />
+      <module name="BridgeLabz-SIPP-Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaArrays.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Vote" />
-        <item itemvalue="Application.Div5" />
-        <item itemvalue="Application.areaOfTriangle" />
-        <item itemvalue="Application.sideOfsquare" />
-        <item itemvalue="Application.height" />
+        <item itemvalue="Application.DigitFrequency" />
+        <item itemvalue="Application.StudentGradesTwoD" />
+        <item itemvalue="Application.BmiCalculation" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.LargestAndSecond" />
       </list>
     </recent_temporary>
   </component>

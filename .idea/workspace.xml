@@ -35,50 +35,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BmiCalculation.executor": "Run",
-    "Application.CalendarDisplay.executor": "Run",
-    "Application.DigitFrequency.executor": "Run",
-    "Application.Div5.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.JavaArrays.Level1.Factors.executor": "Run",
-    "Application.JavaArrays.Level1.FizzBuzz.executor": "Run",
-    "Application.LargestAndSecond.executor": "Run",
-    "Application.Multiplication.executor": "Run",
-    "Application.NumberChecker.executor": "Run",
-    "Application.OddEvenArray.executor": "Run",
-    "Application.PositiveOrNegative.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.StudentGrades.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.TrigonometricFunctions.executor": "Run",
-    "Application.Vote.executor": "Run",
-    "Application.areaOfTriangle.executor": "Run",
-    "Application.avgMarks.executor": "Run",
-    "Application.fee.executor": "Run",
-    "Application.feeFromUser.executor": "Run",
-    "Application.harryAge.executor": "Run",
-    "Application.height.executor": "Run",
-    "Application.kilometerTOmiles.executor": "Run",
-    "Application.kmTomiles.executor": "Run",
-    "Application.pen.executor": "Run",
-    "Application.profitLoss.executor": "Run",
-    "Application.sideOfsquare.executor": "Run",
-    "Application.volOfEarth.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Core-Java",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/BridgeLabz-SIPP-Training"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnagramCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayIndexOutOfBoundExc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BmiCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalendarDisplay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomToCharArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Div5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateRemove.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindLongestWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IllegalArgumentExc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaArrays.Level1.Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaArrays.Level1.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestAndSecond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MostFrequentChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullPointerEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositiveOrNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveSpecificChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevesreString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrigonometricFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UppercaseConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VowelConsonantCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.areaOfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.avgMarks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.feeFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.harryAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.height.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kilometerTOmiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kmTomiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.profitLoss.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sideOfsquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.volOfEarth.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Core-Java&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Review&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CalendarDisplay">
-    <configuration name="CalendarDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.Level3.CalendarDisplay" />
+}</component>
+  <component name="RunManager" selected="Application.VowelConsonantCount">
+    <configuration name="CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPractice.CheckPalindrome" />
       <module name="BridgeLabz-SIPP-Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMethods.Level3.*" />
+          <option name="PATTERN" value="StringPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level2.DigitFrequency" />
+    <configuration name="CountSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPractice.CountSubString" />
       <module name="BridgeLabz-SIPP-Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaArrays.Level2.*" />
+          <option name="PATTERN" value="StringPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.Level3.NumberChecker" />
+    <configuration name="DuplicateRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPractice.DuplicateRemove" />
       <module name="BridgeLabz-SIPP-Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMethods.Level3.*" />
+          <option name="PATTERN" value="StringPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradesTwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrays.Level2.StudentGradesTwoD" />
+    <configuration name="RemoveSpecificChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPractice.RemoveSpecificChar" />
       <module name="BridgeLabz-SIPP-Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaArrays.Level2.*" />
+          <option name="PATTERN" value="StringPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrigonometricFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.Level1.TrigonometricFunctions" />
+    <configuration name="VowelConsonantCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPractice.VowelConsonantCount" />
       <module name="BridgeLabz-SIPP-Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMethods.Level1.*" />
+          <option name="PATTERN" value="StringPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalendarDisplay" />
-        <item itemvalue="Application.TrigonometricFunctions" />
-        <item itemvalue="Application.NumberChecker" />
-        <item itemvalue="Application.DigitFrequency" />
-        <item itemvalue="Application.StudentGradesTwoD" />
+        <item itemvalue="Application.VowelConsonantCount" />
+        <item itemvalue="Application.RemoveSpecificChar" />
+        <item itemvalue="Application.DuplicateRemove" />
+        <item itemvalue="Application.CountSubString" />
+        <item itemvalue="Application.CheckPalindrome" />
       </list>
     </recent_temporary>
   </component>

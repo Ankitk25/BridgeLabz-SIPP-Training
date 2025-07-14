@@ -1,0 +1,4 @@
+Java is a programming language.
+Java is widely used in enterprise applications.
+Python is also popular.
+Java is platform-independent.
